@@ -5,6 +5,7 @@ import shutil
 # test
 
 
+
 dirNames = ["Audio", "Documents", "Videos", "Images", "Executables", "Archives", "Other"]
 
 for x in dirNames:
