@@ -2,7 +2,7 @@ import os
 import glob
 import shutil
 # from tkinter import *
-# test
+# test2
 
 
 dirNames = ["Audio", "Documents", "Videos", "Images", "Executables", "Archives", "Other"]
